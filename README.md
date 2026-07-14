@@ -2,15 +2,6 @@
 
 > **"Neon Nebula" theme** · Runs with ZERO installation. No Node.js, no build. Open in a browser.
 
-## ▶️ Run it
-
-Already running via Python? Just open **http://localhost:5500**. Otherwise:
-
-```powershell
-cd static-site
-python -m http.server 5500
-```
-Then open **http://localhost:5500**. (Or simply double-click `index.html`.)
 
 > Best experienced served (Python or VS Code **Live Server**) so the animated canvas + fonts load fully.
 
